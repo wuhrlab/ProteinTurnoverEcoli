@@ -5,14 +5,14 @@ https://drive.google.com/drive/folders/1ZE-nk-jrOZ1l7HpY-vifnv19tPAtQrrk?usp=sha
 
 
 To run the scripts create a new environment with the following packages: 
-        Python 3.9.12
-        Pandas version_1.4.2
-        Numpy version_1.21.5
-        Matplolib version_3.5.1
-        Scipy version_1.7.3
-        Sklearn version_1.0.2
-        Seaborn version_0.11.2
-        Pingouin version_0.5.3
+        1.Python 3.9.12
+        2.Pandas version_1.4.2
+        3.Numpy version_1.21.5
+        4.Matplolib version_3.5.1
+        5.Scipy version_1.7.3
+        6.Sklearn version_1.0.2
+        7.Seaborn version_0.11.2
+        8.Pingouin version_0.5.3
 
 
 Then clone this git repository locally. 
