@@ -1,0 +1,9 @@
+Rep 1
+OD: 0.502
+Doubling Time: 5.67 hr
+Sample times (min): [0, 91, 199, 330, 553, 1579]
+
+Rep 2
+OD: 0.516
+Doubling Time: 5.70 hr
+Sample times (min): [0, 91, 199, 330, 553, 1579]
