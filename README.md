@@ -1,6 +1,7 @@
 # ProteinTurnoverEcoli
 This repository contains the scripts for obtaining half lives from the input peptide data in the csv format. 
 To download the input data csv files and the resulting output cvs files containing half lives, please refer to the link: 
+https://drive.google.com/drive/folders/1ZE-nk-jrOZ1l7HpY-vifnv19tPAtQrrk?usp=sharing
 
 
 To run the scripts create a new environment with the following packages: 
@@ -16,7 +17,16 @@ To run the scripts create a new environment with the following packages:
 
 Then clone this git repository locally. 
 
-To run the scripts the input file from the above link needs to be pasted in the respective folder. 
-and then run the individual jupyter notebooks
+To run the scripts the input file from the above link needs to be pasted in the respective folder. The input files start with the name of the condition. 
+and then run the individual jupyter notebooks. 
+An example for "Clim12 Replicate 1"  is demonstarted below. Follow the steps after cloning the git repository: 
+1. Open the drive. Navigate to the folder C12 > Replicate1_C12.
+2. Download the file Clim12_set1.csv to your local computer.
+3. Copy this file to clipboard.
+4. Navigate to the cloned git directory on your local computer.
+5. Navigate to the folder C12 > Replicate1_C12.
+6. Paste the input file in this folder.
+7. Run the jupyter notebook.
+8. This will produce the resulting half-life files which can be matched to the output files uploaded on the link above. 
 
 
