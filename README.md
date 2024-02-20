@@ -30,6 +30,8 @@ An example for "Clim12 Replicate 1"  is demonstarted below. Follow the steps aft
 8. This will produce the resulting half-life files which can be matched to the output files uploaded on the link above.
 
 Directory nomenclature
+
+
 <img width="432" alt="image" src="https://github.com/wuhrlab/ProteinTurnoverEcoli/assets/32436924/de09c81f-e6bf-42b2-bdc4-eec680c23e0b">
 
 
