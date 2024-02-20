@@ -1,7 +1,7 @@
 # ProteinTurnoverEcoli
 This repository contains the scripts for obtaining half lives from the input peptide data in the csv format. 
 To download the input data csv files and the resulting output cvs files containing half lives, please refer to the link: 
-https://drive.google.com/drive/folders/1ZE-nk-jrOZ1l7HpY-vifnv19tPAtQrrk?usp=sharing
+https://zenodo.org/records/10672712
 
 
 To run the scripts create a new environment with the following packages: 
